@@ -1,3 +1,22 @@
+2022-01-29
+Drogi pamietniku,
+ten wpis laczy w sobie dwa ostatnie zajecia.Po kolokwium, prowadzacy
+pokazal nam narzedzie PowerShell. Kojarzone raczej z Windowsem, ale mozna
+je bez problemu uruchomic na innych OS. Zajecia polegaja bardziej na pokazaniu
+mozliwosci PWSH niz strikte nauka jego. Wiele komend jest  analogicznych do
+bash'a, ktore poznalismy podczas semestru. Mozna rowniez uzywac min. petli takich
+jak uzywa sie w roznych jezykach programowania. Dzieki powershellowi mozna 
+zautomatyzowac procesy/czynnosci, ktore sa powtarzalne i monotonne. 
+Od prowadzacego, w ramach cwiczen, otrzymalismy rowniez skrypt z prostymi komendami
+ktore moglimy wyprobowac, zeby poznac dzialanie pwsh. Jedna z komend
+szczegolnie zapadla mi w pamiec. Przy pomocy PowerShella moza bylo wywolac
+okienko notyfikacyjne z wlasna trescia, typem okienka (okienko informacyjne, 
+okienko bledu). W skrypcie podane sa proste przyklady, ale z tego co opowiadal
+nam prowadzacy, PowerShell jest bardzo silnym narzedziem i uniwersalnym. 
+Wiele rzeczy mozna aktualnie zrobic przy pomocy innych jezykow programowania,
+jednak sam fakt, ze PowerShell ma tyle mozliwosci, pokazuje, jak mocnym jest
+narzedziem.   
+
 2022-01-11
 Drogi pamietniku,
 przed swietami mielismy na zajeciach mozliwosc zapytania prowadzacego o 
